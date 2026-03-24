@@ -76,7 +76,7 @@ Ao executar o programa, um menu será exibido no terminal com as seguintes opç�
 
 ## 👨‍💻 Autor
 
-Arthur Teixeira
+Arthur Teixeira da Costa Lima
 
 * GitHub: https://github.com/ArthurTeix
 * LinkedIn: https://www.linkedin.com/in/arthur-teixeira-da-costa-lima-b47a83283/
