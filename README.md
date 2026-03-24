@@ -36,15 +36,15 @@ projeto/
 
 Ao executar o programa, um menu será exibido no terminal com as seguintes opções:
 
-1. **Cadastrar nova pessoa**
-
-   * Permite inserir o nome e a idade do usuário
-   * Os dados são armazenados no arquivo `people.txt`
-
-2. **Listar pessoas cadastradas**
-
+1. **Listar pessoas cadastradas**
+   
    * Exibe todas as pessoas salvas no arquivo
    * Mostra nome e idade formatados
+
+2. **Cadastrar nova pessoa**
+ 
+   * Permite inserir o nome e a idade do usuário
+   * Os dados são armazenados no arquivo `people.txt`
 
 3. **Sair do sistema**
 
