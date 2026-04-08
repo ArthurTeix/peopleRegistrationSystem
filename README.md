@@ -16,8 +16,8 @@ Sistema em Python para cadastro e leitura de pessoas utilizando arquivos `.txt`.
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/ArthurTeix/peopleRegistrationSystem.git
+cd peopleRegistrationSystem
 python main.py
 ```
 
