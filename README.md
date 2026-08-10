@@ -78,4 +78,3 @@ Ao executar o programa, um menu será exibido no terminal com as seguintes opç�
 
 Arthur Teixeira da Costa Lima
 
-* GitHub: https://github.com/ArthurTeix
