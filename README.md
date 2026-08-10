@@ -70,10 +70,6 @@ Ao executar o programa, um menu será exibido no terminal com as seguintes opç�
 * Tratamento de erros
 * Modularização do código
 
-## 📌 Status
-
-✔️ Projeto finalizado
-
 ## 👨‍💻 Autor
 
 Arthur Teixeira da Costa Lima
